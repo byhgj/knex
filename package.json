@@ -1,5 +1,5 @@
 {
-  "name": "knex-fb",
+  "name": "knex",
   "version": "0.1.16",
   "description": "Knex for including support for firebird",
   "main": "knex.js",
